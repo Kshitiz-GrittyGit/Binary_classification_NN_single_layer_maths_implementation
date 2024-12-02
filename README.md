@@ -7,7 +7,7 @@
 After some EDA I have created a scikit learn preprocessing pipeline.
 
 
-I have used Accuracy as the performance metrics as data is balanced with equal number of positive and negative cases.
+**Performance Metrics** I have used Accuracy as the performance metrics as data is balanced with equal number of positive and negative cases.
 
 
 **Result:**
