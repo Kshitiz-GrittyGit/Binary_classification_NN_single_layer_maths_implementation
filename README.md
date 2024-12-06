@@ -12,9 +12,9 @@ After some EDA I have created a scikit learn preprocessing pipeline.
 
 **Result:**
 Logistic Regresion Accuracy ~ 77%
-Single Hidden Layered Neural Network Accuracy ~79%
+Single Hidden Layered Neural Network Accuracy ~78%
 
 
 **Caveats:**
-There don't seems a lot of difference but please note that it was just a single hidden layered NN which is roughly equivalent to Logoistic Regression.
+There don't seems a lot of difference but please note that it was just a single hidden layered NN which is roughly equivalent to Logistic Regression.
 There is also no Hyperparameter Tuning.
